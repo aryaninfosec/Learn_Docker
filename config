@@ -1,0 +1,4 @@
+git commit -m "frst commit"
+git branch -M main
+git remote add origin https://github.com/aryaninfosec/Learn_Docker.git
+git push -u origin main
